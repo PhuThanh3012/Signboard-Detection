@@ -13,3 +13,5 @@ The dataset might also include complex backgrounds, varying lighting conditions,
 The model handles challenges like occlusion (when part of the sign is blocked), various lighting conditions (day/night), and varying angles at which signs are captured.
 
 It can also cope with language-specific issues (e.g., Vietnamese characters on signs) by detecting and processing textual information effectively
+
+**Demo**
