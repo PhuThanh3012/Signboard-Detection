@@ -14,5 +14,5 @@ The model handles challenges like occlusion (when part of the sign is blocked), 
 
 It can also cope with language-specific issues (e.g., Vietnamese characters on signs) by detecting and processing textual information effectively
 
-**Demo**
+**Demo:**\
 ![Image](https://github.com/user-attachments/assets/00b5cd09-5a92-435e-9f4c-d8bbf59447c4)
